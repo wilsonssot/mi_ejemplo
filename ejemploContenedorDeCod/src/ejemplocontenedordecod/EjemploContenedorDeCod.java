@@ -5,6 +5,8 @@
  */
 package ejemplocontenedordecod;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author USER-12
@@ -16,6 +18,7 @@ public class EjemploContenedorDeCod {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JOptionPane.showMessageDialog(null, "Hola Mundo");
     }
     
 }
