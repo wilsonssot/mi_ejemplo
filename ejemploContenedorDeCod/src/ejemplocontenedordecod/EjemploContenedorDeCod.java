@@ -19,7 +19,7 @@ public class EjemploContenedorDeCod {
     public static void main(String[] args) {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "Hola Mundo");
-   
+                JOptionPane.showMessageDialog(null, "Hola Mundo 1");
         
     }
     
