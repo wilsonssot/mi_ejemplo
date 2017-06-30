@@ -20,7 +20,6 @@ public class EjemploContenedorDeCod {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "Hola Mundo");
                 JOptionPane.showMessageDialog(null, "Hola Mundo 1");
-                asdasd
         
     }
     
